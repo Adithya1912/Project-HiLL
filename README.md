@@ -43,9 +43,7 @@ Hill is designed as a runtime, not a one-off utility:
 - adapters bridge external systems
 - rules turn events into workspace actions
 
-## Preview
 
-![Hill architecture preview](C:/Users/Nakul%20Adithya/.codex/generated_images/019f87ff-458c-70e1-9ea2-6f4c516252ff/call_uaEB6E2yEi7FTSMbU2fkkyPJ.png)
 
 ## Repository layout
 
@@ -70,13 +68,8 @@ hill/
 
 ## Screenshots
 
-Add screenshots for:
+<img width="1254" height="1254" alt="call_uaEB6E2yEi7FTSMbU2fkkyPJ" src="https://github.com/user-attachments/assets/cd26866a-f796-4fe2-9dfe-d962c60eab34" />
 
-- CLI
-- Dashboard
-- Workspace switching
-- Configuration
-- Live events
 
 ## Status
 
