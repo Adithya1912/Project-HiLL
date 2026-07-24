@@ -14,7 +14,7 @@ Hill treats a project as something you can enter, restore, and operate, instead 
 - Built for restoring development context across terminals, services, and workspace state
 
 ## What you can do
-
+ 
 - Register and manage projects
 - Restore project context from a single command
 - Observe workspace events through a structured runtime
