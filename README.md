@@ -57,14 +57,6 @@ hill/
     hill-types/
 ```
 
-## Public docs
-
-- [Architecture](docs/architecture.md)
-- [Runtime](docs/runtime.md)
-- [Event System](docs/event-system.md)
-- [Plugin System](docs/plugin-system.md)
-- [Configuration](docs/configuration.md)
-- [Roadmap](docs/roadmap.md)
 
 ## Screenshots
 
