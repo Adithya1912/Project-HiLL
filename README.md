@@ -1,5 +1,9 @@
 # ProjectHiLL
 
+![Status](https://img.shields.io/badge/status-alpha-orange)
+![Language](https://img.shields.io/badge/language-Rust-000000)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Hill is a programmable workspace operating system for developers.
 
 Not another window manager.
