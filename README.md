@@ -6,12 +6,11 @@
 
 Hill is a programmable workspace operating system for developers.
 
-Not another window manager.
-A runtime for intelligent workspaces.
+It isn't another window manager—it's a runtime for intelligent workspaces.
 
 Hill treats a project as something you can enter, restore, and operate, instead of something you manually rebuild every time you switch context.
 
-## What it is
+## Overview
 
 - Project-centric workspace runtime
 - Local-first and event-driven
@@ -21,7 +20,7 @@ Hill treats a project as something you can enter, restore, and operate, instead 
  
 - Register and manage projects
 - Restore project context from a single command
-- Observe workspace events through a structured runtime
+- Observe workspace events through a structured event bus
 - Extend the system through adapters and plugins
 
 ## Architecture
@@ -42,10 +41,10 @@ flowchart TD
 
 Hill is designed as a runtime, not a one-off utility:
 
-- requests enter through the CLI or shell
-- the runtime coordinates state and events
-- adapters bridge external systems
-- rules turn events into workspace actions
+- Requests enter through the CLI or shell.
+- The runtime coordinates state and events.
+- Adapters bridge external systems.
+- Rules transform events into workspace actions.
 
 
 
@@ -71,7 +70,6 @@ hill/
 
 Hill is under active development.
 
-The public repo is intentionally high level. Detailed implementation notes, internal design decisions, and private planning material should stay out of the public README.
 
 ## Releases
 
@@ -79,6 +77,4 @@ The public repo is intentionally high level. Detailed implementation notes, inte
 - `v0.2.0-alpha`
 - `v0.3.0-alpha`
 
-## License
 
-MIT
